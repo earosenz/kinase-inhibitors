@@ -1,0 +1,37 @@
+random number seed = 1497122115
+Monte Carlo set up time: 0 seconds.
+Starting number of residue = 1, number of conformer = 5
+
+pH =   7.40  Eh =   0.00
+
+Reduce =   1, number of active residue:    1, active conformer     4
+Equilibrating:       2 cycle(s) at temperature =     298.15K
+Annealling:          1 cycle(s) at temperature =     298.15K
+Collecting data:                at temperature =     298.15K
+   Minimum/maximum number of cycles:     1/   -1
+   Actual  number of cycles to converge:     5
+
+Reduce =   2, number of active residue:    1, active conformer     2
+Equilibrating:       1 cycle(s) at temperature =     298.15K
+Annealling:          1 cycle(s) at temperature =     298.15K
+Collecting data:                at temperature =     298.15K
+   Minimum/maximum number of cycles:     1/   -1
+   Actual  number of cycles to converge:     8
+Reduce =   2, rmsd = 0.00126
+
+Reduce =   3, number of active residue:    1, active conformer     2
+Equilibrating:       1 cycle(s) at temperature =     298.15K
+Annealling:          1 cycle(s) at temperature =     298.15K
+Collecting data:                at temperature =     298.15K
+   Minimum/maximum number of cycles:     1/   -1
+   Actual  number of cycles to converge:    14
+Reduce =   3, rmsd = 0.00101
+
+Reduce =   4, number of active residue:    1, active conformer     2
+Equilibrating:       1 cycle(s) at temperature =     298.15K
+Annealling:          1 cycle(s) at temperature =     298.15K
+Collecting data:                at temperature =     298.15K
+   Minimum/maximum number of cycles:     1/   -1
+   Actual  number of cycles to converge:    17
+Reduce =   4, rmsd = 0.00006
+Monte Carlo running time: 0 seconds.
